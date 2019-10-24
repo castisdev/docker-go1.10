@@ -8,5 +8,5 @@
 ### 사용하기
 
 ```
-$ sudo docker run -it --rm castis/golang1.10
+$ sudo docker run -it --rm castis/go1.10
 ```
